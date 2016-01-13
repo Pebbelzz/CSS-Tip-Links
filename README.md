@@ -6,4 +6,4 @@ Various CSS Tip Links
 
 <p><b><a href="https://www.youtube.com/watch?v=qrduUUdxBSY">CSS Units (CSS Lengths: rems, ems, pixels, percents, and more)</a></b>- What is the difference between ems and rems? When should I use pixels or percentages? How does vmin and vh work? How long is a piece of string?</p>
 
-<p><b><a href"https://css-tricks.com/css3-gradients/">CSS3 Gradients</a></b> 
+<p><b><a href="https://css-tricks.com/css3-gradients/">CSS3 Gradients</a></b> 
