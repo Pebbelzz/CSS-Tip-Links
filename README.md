@@ -7,3 +7,7 @@ Various CSS Tip Links
 <p><b><a href="https://www.youtube.com/watch?v=qrduUUdxBSY">CSS Units (CSS Lengths: rems, ems, pixels, percents, and more)</a></b>- What is the difference between ems and rems? When should I use pixels or percentages? How does vmin and vh work? How long is a piece of string?</p>
 
 <p><b><a href="https://css-tricks.com/css3-gradients/">CSS3 Gradients</a></b> 
+
+<h1>CSS Animations</h1>
+<h2>Videos</h2>
+<p><b><a href="https://www.youtube.com/watch?v=TVpGb5Jj0GY&list=PL478wQWRhpfZA85XA9eDWVTs1w2mCNZkV&index=4">CSS Animations vs. Transitions</a></b> -  learn about what transitions and animations have going for them (or not have going for them!) and when to use which.</p>
