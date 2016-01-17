@@ -1,11 +1,13 @@
 # CSS-Tip-Links
-Various CSS Tip Links
+<h2>Various CSS Tip Links</h2>
 
 
 <p><b><a href="http://stackoverflow.com/questions/1575141/make-div-100-height-of-browser-window">Make div 100% height of browser window</a></b> - Viewport-Percentage (or Viewport-Relative) Lengths explained on Stack Overflow.</p>
 
 
 <p><b><a href="https://css-tricks.com/css3-gradients/">CSS3 Gradients</a></b> 
+
+<p><b><a href="http://www.impressivewebs.com/difference-block-inline-css/">The Difference Between “Block” and “Inline”</a></b> - For the purpose of CSS styling, elements can be generally divided into a few different categories. Two of those categories are block-level elements and inline elements.</p>
 
 <h3>Videos</h3>
 
