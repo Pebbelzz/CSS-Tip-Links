@@ -1,6 +1,7 @@
 # CSS-Tip-Links
 <h3>Various CSS Tip Links</h3>
 
+<p><b><a href="http://learn.shayhowe.com/advanced-html-css/complex-selectors/">Complex Selectors</a></b> - CSS3 brought new selectors, opening a whole new world of opportunities and improvements to existing practices. Here we’ll discuss selectors, old and new, and how to best put them to use.</p>
 
 <p><b><a href="http://stackoverflow.com/questions/1575141/make-div-100-height-of-browser-window">Make div 100% height of browser window</a></b> - Viewport-Percentage (or Viewport-Relative) Lengths explained on Stack Overflow.</p>
 
