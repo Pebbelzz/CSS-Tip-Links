@@ -22,3 +22,7 @@
 <p><b><a href="https://css-tricks.com/using-svg/">Using SVG</a></b> - SVG is an image format for vector graphics. It literally means Scalable Vector Graphics. Basically, what you work with in Adobe Illustrator. You can use SVG on the web pretty easily, but there is plenty you should know.</a>
 
 <p><b><a href="https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035#.vzxkh0lza">Optimising SVGs for Web Use — Part 1</a></b> - Why care about optimising them? Pure graphic designers care only about how their drawing looks. This was sufficient when graphics were printed out or rasterised into pngs. But using vector graphics every extra node, handle, decimal point and superfluous meta information adds to the total vector file size.</a>
+
+<h2>Frameworks</h2>
+<h3>Bootstrap</h3>
+<p><b><a href="https://www.youtube.com/playlist?list=PLqGj3iMvMa4IPwMW-sSXn1Q_pVu5tUMCw">The Bootstrap Grid</a></b> - Video Playlist from DevTips</a>
